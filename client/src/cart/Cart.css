@@ -1,0 +1,17 @@
+.cartContainer {
+    height: 500px;
+    border: 1px solid palevioletred;
+    margin: 20px;
+    overflow: auto;
+}
+
+.cartContainer ul {
+    list-style: none;
+    padding: 0;
+}
+
+.cartContainer ul li {
+    border: 1px solid #d9d9d9;
+    border-radius: 8px;
+    margin: 10px;
+}
